@@ -1,0 +1,34 @@
+
+@media (max-width: 1230px) {
+     .layer-1 {
+        max-width: 1600px;
+        transform: translateZ(-55px) scale(1.06);
+    }
+    .layer-2 {
+        transform: translateZ(80px) scale(.88);
+    }
+    .layer-3 {
+        transform: translateZ(180px) scale(.8);
+    }
+    .layer-4 {
+        transform: translateZ(190px) scale(.9);
+    }
+    .layer-5 {
+        transform: translateZ(300px) scale(.9);
+    }
+    .layer-5-media {
+        transform: translateY(-120px) translateX(-400px) scale(.9);
+    }
+    .layer-6 {
+        transform: translateZ(380px);
+    }
+
+    .layer-6-media {
+        transform: translateY(-120px) translateX(-950px) scale(.8);
+    }
+
+    .hero-content__p {
+	color: red;
+	}
+}
+
